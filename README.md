@@ -15,7 +15,7 @@
 * 🌱 Currently learning **Advanced MERN Stack & System Design**
 * 🧩 Solving DSA problems regularly
 * 🚀 Building real-world projects
-* 📫 Reach me at: **[your-email@example.com](mailto:your-email@example.com)**
+* 📫 Reach me at: **[your-email@example.com](mailto:happykumaryadav23@gmail.com)**
 * ⚡ Fun Fact: I love turning ideas into real applications.
 
 ---
@@ -73,9 +73,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=happy0945&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=happy0945&theme=tokyonight"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=happy0945&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -95,7 +95,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=happy0945&theme=tokyonight&row=1&column=7"/>
 
 </p>
 
@@ -105,7 +105,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=happy0945&theme=tokyo-night"/>
 
 </p>
 
@@ -115,15 +115,15 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/happy-yadav-523765271">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/happy0945">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:happykumaryadav23@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -139,7 +139,7 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=Profile%20Views\&color=blue\&style=flat)
+![](https://komarev.com/ghpvc/?username=happy0945\&label=Profile%20Views\&color=blue\&style=flat)
 
 </p>
 
