@@ -15,7 +15,7 @@
 * 🌱 Currently learning **Advanced MERN Stack & System Design**
 * 🧩 Solving DSA problems regularly
 * 🚀 Building real-world projects
-* 📫 Reach me at: **[your-email@example.com](mailto:happykumaryadav23@gmail.com)**
+* 📫 Reach me at: **[happykumaryadav23@gmail.com](mailto:happykumaryadav23@gmail.com)**
 * ⚡ Fun Fact: I love turning ideas into real applications.
 
 ---
