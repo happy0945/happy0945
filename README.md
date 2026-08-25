@@ -1,6 +1,6 @@
 # Hi 👋, I'm Happy Yadav
 
-<h3 align="center">🚀 MERN Stack Developer | Problem Solver | Open Source Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | Devops Engineer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;DSA+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
