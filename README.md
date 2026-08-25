@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | Devops Engineer | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;DSA+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Full+Stack+Web+Developer;DSA+Learner;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
